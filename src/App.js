@@ -6,6 +6,7 @@ function App() {
   const userdata={name:"pyare",img:myimg,title:"software developer" ,skill:"react.js"}
   return (
    <>
+   <h1>heloo</h1>
    <UserProfile  userdata={userdata}/>
    </>
   );
